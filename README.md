@@ -1,4 +1,4 @@
-# Solutions for EPFL CH-457 "AI for Chemistry
+# Solutions for EPFL CH-457 "AI for Chemistry"
 
 This repo is for the practice and contains my solutions to the exercises in the EPFL CH-457 'AI for Chemistry' course, based on materials from schwallergroup/ai4chem_course.
 
