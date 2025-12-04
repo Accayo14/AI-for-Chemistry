@@ -1,0 +1,1 @@
+{"trainer/global_step":408,"Valid MSE":0.42389702796936035,"_runtime":4,"_timestamp":1.7648448622160356e+09,"epoch":34,"Train loss":0.09603570401668549,"Test MSE":0.45329350233078003,"_wandb":{"runtime":4},"_step":42}
